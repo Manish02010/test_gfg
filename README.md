@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Manish02010/test_gfg/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Manish02010/test_gfg/tree/master/0088-merge-sorted-array) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Manish02010/test_gfg/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -18,4 +19,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Manish02010/test_gfg/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Manish02010/test_gfg/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 <!---LeetCode Topics End-->

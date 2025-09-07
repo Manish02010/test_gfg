@@ -22,5 +22,6 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Manish02010/test_gfg/tree/master/0009-palindrome-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Manish02010/test_gfg/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 <!---LeetCode Topics End-->

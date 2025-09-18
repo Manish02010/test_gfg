@@ -20,6 +20,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Manish02010/test_gfg/tree/master/0001-two-sum) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Manish02010/test_gfg/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Manish02010/test_gfg/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -29,4 +30,9 @@
 |  |
 | ------- |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Manish02010/test_gfg/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Manish02010/test_gfg/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Counting
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Manish02010/test_gfg/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->

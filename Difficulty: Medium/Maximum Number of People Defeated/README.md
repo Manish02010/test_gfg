@@ -1,0 +1,10 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/killing-spree3020/1?_gl=1*16u69dq*_up*MQ..&gclid=CjwKCAjw9anCBhAWEiwAqBJ-c9l6iN28H0hpX1nV9NJau6f2k838GOnG6STiKQX3_nr0iD3uFnvXWhoCEsIQAvD_BwE&gbraid=0AAAAAC9yBkCNzApP3nhhAPa6ZQq3u_vZR">Maximum Number of People Defeated</a></h2><h3>Difficulty Level : Difficulty: Medium</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 18px;">There are infinitely<strong> </strong>many people standing in a row, indexed from 1. The strength<strong> </strong>of the person at index <strong>i</strong> is <strong>i²</strong>.</span></p>
+<p><span style="font-size: 18px;">Given a strength <strong>p</strong>, determine the maximum<strong> </strong>number of people that can be defeated. A person with strength <strong>x </strong>can be defeated only if <strong>p ≥ x</strong>, after which the strength <strong>p</strong> decreases by <strong>x</strong>.</span></p>
+<p><span style="font-size: 18px;"><strong>Examples :</strong></span></p>
+<pre><span style="font-size: 18px;"><strong>Input</strong>: p = 14
+<strong>Output:</strong>&nbsp;3
+<strong>Explanation</strong>:</span> <span style="font-size: 18px;">The strengths of the first few people are 1, 4, 9, 16, .... Defeating the first three people consumes 1 + 4 + 9 = 14 strength, leaving 0. Therefore, the maximum number of people that can be defeated is 3.</span>
+</pre>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>p = 10
+<strong>Output: </strong>2<br><strong>Explanation: </strong></span><span style="font-size: 18px;">After defeating people with strengths 1 and 4, the remaining strength is 5, which is less than the next required strength 9.</span></pre>
+<p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1 ≤ p ≤ 3*10<sup>8</sup></span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Mathematical</code>&nbsp;<code>Divide and Conquer</code>&nbsp;<code>Binary Search</code>&nbsp;<code>Algorithms</code>&nbsp;
